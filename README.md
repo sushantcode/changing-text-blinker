@@ -35,6 +35,6 @@ export YourComponentName;
   This defines the styles of the elements such as color, size, strokes, etc.
   
 # Contributor
-  - Sushant Gupta. 
-    [GitHub Profile](https://github.com/sushantcode)  
+  - Sushant Gupta <br />
+    [GitHub Profile](https://github.com/sushantcode) <br />
     [LinkedIn Profile] (https://www.linkedin.com/in/sushantgupta2016/)
