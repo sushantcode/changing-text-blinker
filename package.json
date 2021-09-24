@@ -1,6 +1,6 @@
 {
   "name": "react-changing-text-blinker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple react component that changes the html tag content with blinking.",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
