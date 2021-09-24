@@ -37,4 +37,4 @@ export YourComponentName;
 # Contributor
   - Sushant Gupta <br />
     [GitHub Profile](https://github.com/sushantcode) <br />
-    [LinkedIn Profile] (https://www.linkedin.com/in/sushantgupta2016/)
+    [LinkedIn Profile](https://www.linkedin.com/in/sushantgupta2016/) 
