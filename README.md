@@ -18,9 +18,9 @@ const YourComponentName = () = {
   return (
     <ChangingTextBlinker className="yourclassNameToStyle" stringArray={stringArray} delayTime={delayTime} random={false} />
    );
-}
-```
+};
 export YourComponentName;
+```
 
 # props
 * **stringArray (required):**
