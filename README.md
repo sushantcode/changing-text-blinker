@@ -12,7 +12,7 @@ It is very easy to use it in your react project. You can simply use it by instal
 import { ChangingTextBlinker } from 'react-changing-text-blinker';
 
 const YourComponentName = () = {
-  const stringArray = ["Element-1", "Element-2", "Element-3", "Element-4", "Element-5",...]; //Array of elements you want to blink
+  const stringArray = ["Element-1", "Element-2", "Element-3", "Element-4", "Element-5"]; //Array of elements you want to blink
   const delayTime = 5; //Time gap you want between each blink
   // Rest of Your codes if you have
   return (
