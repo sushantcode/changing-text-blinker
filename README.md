@@ -5,7 +5,7 @@ An npm react package library that helps you to render an array of blinking texts
 npm i react-changing-text-blinker
 
 # How to use it?
-It is very easy to use it in your react project. You can simply use it by installing and importing to your react pages/components as a JSX component.
+It is very easy to use in your react project. You can simply use it by installing and importing to your react pages/components as a JSX component.
 
 ## Example
 ```
